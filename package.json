@@ -1,0 +1,23 @@
+{
+  "name": "docker",
+  "version": "1.0.0",
+  "description": "Test Git Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itechtamizhan/docker.git"
+  },
+  "keywords": [
+    "test",
+    "source"
+  ],
+  "author": "vivek java",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itechtamizhan/docker/issues"
+  },
+  "homepage": "https://github.com/itechtamizhan/docker#readme"
+}
